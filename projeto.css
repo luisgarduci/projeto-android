@@ -74,6 +74,7 @@ main p {
 
 nav {
     padding: 3px;
+    min-width: 260px;
 }
 
 nav > a {
