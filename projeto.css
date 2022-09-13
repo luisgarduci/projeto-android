@@ -68,7 +68,7 @@ main p {
     color: white;
     text-align: justify;
     text-align: center;
-    margin-bottom: 50px;
+    padding-bottom: 10px;
     font-size: 20px;
 }
 
@@ -112,7 +112,7 @@ nav > a:hover {
 #secondsection {
     font-family: var(--fontepadrao);
     background-color: white;
-    max-width: 932px;
+    max-width: 925px;
     min-width: 260px;
     margin: auto;
     margin-top: 1px;
