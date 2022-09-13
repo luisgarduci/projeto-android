@@ -189,7 +189,7 @@ iframe {
 div#video {
     position: relative;
     background-color: #1A5C38;
-    padding: 20px 20px 20px 20px;
+    padding: 20px 0px 20px 20px;
     margin: 0px -0px 0px -10px;
     padding-bottom: 55%;
     
