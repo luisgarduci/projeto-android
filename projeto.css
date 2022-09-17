@@ -15,7 +15,7 @@
 
 #firstheader {
     background-image: linear-gradient(to bottom, lightgreen, #03A64A);
-    padding: 40px 40px 5px 20px;
+    padding: 35px 40px 5px 20px;
     box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.445);
 }
 
@@ -68,7 +68,7 @@ main p {
     color: white;
     text-align: justify;
     text-align: center;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
     font-size: 20px;
 }
 
@@ -198,7 +198,7 @@ div#video {
 div#video > iframe {
     position: absolute;
     top: 5%;
-    left: 7%;
+    left: 8%;
     width: 85%;
     height: 90%;
 }
