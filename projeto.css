@@ -50,7 +50,7 @@ body {
 main {
     font-family: var(--fontepadrao);
     background-color: white;
-    max-width: 930px;
+    max-width: 910px;
     min-width: 260px;
     padding: 15px 10px 20px 10px;
     margin: auto;
@@ -105,14 +105,14 @@ nav > a:hover {
     background-color: white;
     margin: auto;
     margin-top: 1px;
-    max-width: 925px;
+    max-width: 920px;
     min-width: 260px;
 }
 
 #secondsection {
     font-family: var(--fontepadrao);
     background-color: white;
-    max-width: 925px;
+    max-width: 910px;
     min-width: 230px;
     margin: auto;
     margin-top: 1.5px;
@@ -189,9 +189,9 @@ iframe {
 div#video {
     position: relative;
     background-color: #1A5C38;
-    padding: 10px;
-    margin: 0px -0px 0px -10px;
-    padding-bottom: 55%;
+    padding: 12px 12px 12px 12px;
+    margin: 0px 0px 0px -5px;
+    padding-bottom: 51.5%;
     
 }
 
